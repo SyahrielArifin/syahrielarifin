@@ -1,4 +1,4 @@
-### Hello My Name Is ARIEL 👋
+## Hello My Name Is ARIEL 👋
 #### I am a student of Arafah Islamic High School
 
 <!--
