@@ -1,5 +1,5 @@
-## Hello My Name Is ARIEL 👋
-#### I am a student of Arafah Islamic High School
+# Hello My Name Is ARIEL 👋
+### I am a student of Arafah Islamic High School
 
 <!--
 **SyahrielArifin/syahrielarifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
